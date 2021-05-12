@@ -1,1 +1,7 @@
-{}
+{
+    "baseUrl": "https://coffeemug.z33.web.core.windows.net/",
+    "retries": {
+        "runMode": 2,
+        "openMode": 0
+      }
+}
